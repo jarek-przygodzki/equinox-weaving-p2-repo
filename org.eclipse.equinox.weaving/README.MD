@@ -1,4 +1,4 @@
-# p2 repsitory for Equinox Weaving
+# p2 repository for Equinox Weaving
 
 
 ## Follow these steps if you want to release a new version
